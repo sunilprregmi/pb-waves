@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/sunilprregmi/pb-waves-epg/raw/refs/heads/main/pb-waves.xml.gz"
-# Sunil Prasad @ sunilprasad.com.np
-# STRICT WARNING: Do not spam.
+# Waves OTT Scraped Playlist
+# By Sunil Prasad @ sunilprasad.com.np
 # Made with love <3
 
 #EXTINF:-1 tvg-id="11022" tvg-name="sansad-tv-1" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp" group-title="News", SANSAD TV 1
@@ -8,361 +8,433 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+
 #EXTINF:-1 tvg-id="10541" tvg-name="dd-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp" group-title="DD National Channels", DD News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
 #EXTINF:-1 tvg-id="11021" tvg-name="sansad-tv-2" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp" group-title="News", SANSAD TV 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+
 #EXTINF:-1 tvg-id="10539" tvg-name="dd-india" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp" group-title="DD National Channels", DD INDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+
 #EXTINF:-1 tvg-id="10574" tvg-name="dd-national-hd" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp" group-title="DD National Channels", DD National HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
 #EXTINF:-1 tvg-id="10576" tvg-name="dd-shayadri" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/72497220DD_SAHYADRI_New_Logo_1600X900.webp" group-title="DD Regional Channels", DD SHAYADRI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+
 #EXTINF:-1 tvg-id="10575" tvg-name="dd-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2092344537Dd_Punjabi.webp" group-title="DD Regional Channels", DD PUNJABI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+
 #EXTINF:-1 tvg-id="10600" tvg-name="dd-saptagiri" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1150594073Dd_saptgiri.webp" group-title="DD Regional Channels", DD SAPTAGIRI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+
 #EXTINF:-1 tvg-id="10591" tvg-name="9xm" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/6041427509XM.webp" group-title="Music", 9XM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://wiselp.wiseplayout.com/9XM/master.m3u8
+
 #EXTINF:-1 tvg-id="10601" tvg-name="dd-chandana" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/355252557DD_TRIPURA-3.webp" group-title="DD Regional Channels", DD CHANDANA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+
 #EXTINF:-1 tvg-id="10599" tvg-name="dd-meghalaya" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2120874491megha.webp" group-title="DD Regional Channels", DD MEGHALAYA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+
 #EXTINF:-1 tvg-id="10598" tvg-name="dabanng" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/888970933Dabangg_Logo_-_1920x1080.webp" group-title="Entertainment", DABANNG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
+
 #EXTINF:-1 tvg-id="10596" tvg-name="e24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/659096870E_24.webp" group-title="Entertainment", E24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
+
 #EXTINF:-1 tvg-id="10595" tvg-name="tv9-bharatvarsh" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp" group-title="News", TV9 BHARATVARSH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
+
 #EXTINF:-1 tvg-id="10594" tvg-name="ibc24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/682104833IBC_24.webp" group-title="News", IBC24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
+
 #EXTINF:-1 tvg-id="10593" tvg-name="ndtv-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/192194567NDTV_INDIA.webp" group-title="News", NDTV INDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
+
 #EXTINF:-1 tvg-id="10932" tvg-name="gangaur" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp" group-title="Entertainment", Gangaur
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+
 #EXTINF:-1 tvg-id="10592" tvg-name="dd-goa" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/125118494DD_TRIPURA-1.webp" group-title="DD Regional Channels", DD GOA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+
 #EXTINF:-1 tvg-id="10603" tvg-name="dd-nagaland" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/272878572nagala.webp" group-title="DD Regional Channels", DD NAGALAND
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
 #EXTINF:-1 tvg-id="10590" tvg-name="news-18-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1431023118News_18_india.webp" group-title="News", NEWS 18 INDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+
 #EXTINF:-1 tvg-id="10589" tvg-name="dd-jharkhand" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/76646365Dd_jharkhan.webp" group-title="DD Regional Channels", DD Jharkhand
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+
 #EXTINF:-1 tvg-id="10588" tvg-name="dd-bihar" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1565141068Dd_bihar.webp" group-title="DD Regional Channels", DD BIHAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
+
 #EXTINF:-1 tvg-id="10587" tvg-name="dd-up" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1960626856Uttar_Pradesh.webp" group-title="DD Regional Channels", DD UP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
+
 #EXTINF:-1 tvg-id="10586" tvg-name="dd-himanchal" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/926769901DD_himanchal.webp" group-title="DD Regional Channels", DD HIMANCHAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+
 #EXTINF:-1 tvg-id="10585" tvg-name="navbharat" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/921001071Navbharat.webp" group-title="News", NAVBHARAT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
+
 #EXTINF:-1 tvg-id="10583" tvg-name="dd-madhyapradesh" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/569510685DD_TRIPURA-6__1_.webp" group-title="DD Regional Channels", DD MADHYAPRADESH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
+
 #EXTINF:-1 tvg-id="10647" tvg-name="abzy-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/651929306ABZY_MOVIES.webp" group-title="Entertainment", ABZY Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+
 #EXTINF:-1 tvg-id="10835" tvg-name="dd-rajasthan" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/798231352129179468Dd-rajasthan-in.webp" group-title="DD Regional Channels", DD Rajasthan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
+
 #EXTINF:-1 tvg-id="10829" tvg-name="india-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/510250582vvvvvvvv.webp" group-title="News", India News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c4f5a4a73d4544a18da9ca0a514cef2e/index.m3u8
+
 #EXTINF:-1 tvg-id="10648" tvg-name="abzy-dhakad" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp" group-title="Entertainment", ABZY DHAKAD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+
 #EXTINF:-1 tvg-id="10827" tvg-name="republic-tv-bharat" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2122233949download__6_.webp" group-title="News", Republic TV Bharat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
+
 #EXTINF:-1 tvg-id="10826" tvg-name="newsx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2146737402aaaaaaa.webp" group-title="News", NewsX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/411b860371ca4ab6b462c46e9bfacdbf/index.m3u8
+
 #EXTINF:-1 tvg-id="10651" tvg-name="masti" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1546759719Mastiii_Logo_-_1920x1080.webp" group-title="Music", MASTI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+
 #EXTINF:-1 tvg-id="10649" tvg-name="maiboli" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Entertainment", MAIBOLI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
+
 #EXTINF:-1 tvg-id="10582" tvg-name="dd-malayalam" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1010799992DD_TRIPURA.webp" group-title="DD Regional Channels", DD MALAYALAM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+
 #EXTINF:-1 tvg-id="10645" tvg-name="raj-tv" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1032708131RAJ_TV.webp" group-title="News", RAJ TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+
 #EXTINF:-1 tvg-id="10611" tvg-name="satsang" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/896293492DD_TRIPURA-5.webp" group-title="Devotional", SATSANG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
+
 #EXTINF:-1 tvg-id="10610" tvg-name="sanskar" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/111206065DD_TRIPURA-4.webp" group-title="Devotional", Sanskar
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
+
 #EXTINF:-1 tvg-id="10608" tvg-name="aaj-tak" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/317045659DD_TRIPURA__2_.webp" group-title="News", AAJ TAK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
+
 #EXTINF:-1 tvg-id="10607" tvg-name="9x-tashan" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/107294214421349077939X_TASHAN.webp" group-title="Music", 9X TASHAN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+
 #EXTINF:-1 tvg-id="10606" tvg-name="9x-jhakas" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/19506022848783082819X_JHAKAS.webp" group-title="Music", 9X JHAKAS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
 #EXTINF:-1 tvg-id="10605" tvg-name="9x-jalwa" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1001652520DD_TRIPURA__1_.webp" group-title="Music", 9X JALWA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
 #EXTINF:-1 tvg-id="10604" tvg-name="dd-assam" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/67253725DD_ASSAM.webp" group-title="DD Regional Channels", DD ASSAM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+
 #EXTINF:-1 tvg-id="10548" tvg-name="b4u-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1777577447Frame_1597877909.webp" group-title="Entertainment", B4U Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
 #EXTINF:-1 tvg-id="10556" tvg-name="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1461582026PTC_PUNJABI.webp" group-title="Entertainment", PTC PUNJABI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
 #EXTINF:-1 tvg-id="10555" tvg-name="ptc-punjabi-gold" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1468124252PTC_PUNJABI_GOLD.webp" group-title="Entertainment", PTC PUNJABI GOLD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+
 #EXTINF:-1 tvg-id="10554" tvg-name="news-24-think-first" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1862093768NEWS24_THINK_FIRST.webp" group-title="News", NEWS 24 THINK FIRST
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/master_1.m3u8
+
 #EXTINF:-1 tvg-id="10553" tvg-name="pitaara-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1082937311814700969PITAARA-MOVIES.webp" group-title="Entertainment", PITAARA MOVIES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+
 #EXTINF:-1 tvg-id="10552" tvg-name="news-nation" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1518387989NEWS_NATION.webp" group-title="News", NEWS NATION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+
 #EXTINF:-1 tvg-id="10551" tvg-name="r-republic" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/332387229REPUBLIC_TV.webp" group-title="News", R Republic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+
 #EXTINF:-1 tvg-id="10550" tvg-name="divya" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1874629704DIVYA.webp" group-title="Devotional", DIVYA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
+
 #EXTINF:-1 tvg-id="10549" tvg-name="abp-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="News", ABP NEWS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8
+
 #EXTINF:-1 tvg-id="10557" tvg-name="dd-arunprabha" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/507508336DD_ARUNPRABHA.webp" group-title="DD Regional Channels", DD Arunprabha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+
 #EXTINF:-1 tvg-id="10547" tvg-name="india-today" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/901321020INDIA_TODAY.webp" group-title="News", INDIA TODAY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+
 #EXTINF:-1 tvg-id="10546" tvg-name="good-news-today" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1693877778Frame_1597877912.webp" group-title="News", GOOD NEWS TODAY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8
+
 #EXTINF:-1 tvg-id="10545" tvg-name="b4u-music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/269746116Frame_1597877911.webp" group-title="Music", B4U Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
 #EXTINF:-1 tvg-id="10544" tvg-name="b4u-kadak" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/64260670Frame_1597877910.webp" group-title="Entertainment", B4U KADAK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+
 #EXTINF:-1 tvg-id="10543" tvg-name="b4u-bhojpuri" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1799055944B4U_BHOJPURI.webp" group-title="Entertainment", B4U Bhojpuri
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+
 #EXTINF:-1 tvg-id="10542" tvg-name="dd-bharati" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1372479421Frame_1597877905.webp" group-title="DD National Channels", DD Bharati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+
 #EXTINF:-1 tvg-id="10540" tvg-name="dd-kisan" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp" group-title="DD National Channels", DD KISAN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+
 #EXTINF:-1 tvg-id="10573" tvg-name="dd-girnar" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1761185944DD_Girnar.webp" group-title="DD Regional Channels", DD GIRNAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+
 #EXTINF:-1 tvg-id="10581" tvg-name="dd-uttrakhand" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/371061248Uttarrakhand.webp" group-title="DD Regional Channels", DD UTTRAKHAND
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
+
 #EXTINF:-1 tvg-id="10580" tvg-name="dd-haryana" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/756814886hissar_720x405.webp" group-title="DD Regional Channels", DD HARYANA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+
 #EXTINF:-1 tvg-id="10579" tvg-name="dd-yadgiri" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp" group-title="DD Regional Channels", DD YADGIRI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/f61ea6704a2d4040a2d8eb5c8855ebeb/index.m3u8
+
 #EXTINF:-1 tvg-id="10578" tvg-name="dd-tripura" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/825234471DD_TRIPURA.webp" group-title="DD Regional Channels", DD Tripura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+
 #EXTINF:-1 tvg-id="10577" tvg-name="dd-tamil" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp" group-title="DD Regional Channels", DD TAMIL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
 #EXTINF:-1 tvg-id="10571" tvg-name="dd-chhatisgarh" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1577670363DD_CHHATISGARH.webp" group-title="DD Regional Channels", DD CHHATISGARH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
+
 #EXTINF:-1 tvg-id="10570" tvg-name="dd-urdu" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/651127723DD_URDU.webp" group-title="DD National Channels", DD URDU
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
 #EXTINF:-1 tvg-id="10562" tvg-name="dd-odia" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/820017522odia.webp" group-title="DD Regional Channels", DD ODIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+
 #EXTINF:-1 tvg-id="10561" tvg-name="dd-mizoram" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp" group-title="DD Regional Channels", DD MIZORAM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+
 #EXTINF:-1 tvg-id="10560" tvg-name="dd-manipur" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp" group-title="DD Regional Channels", DD MANIPUR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+
 #EXTINF:-1 tvg-id="10559" tvg-name="dd-kashir" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp" group-title="DD Regional Channels", DD KASHIR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+
 #EXTINF:-1 tvg-id="10558" tvg-name="dd-bangla" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2065815638bang.webp" group-title="DD Regional Channels", DD BANGLA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

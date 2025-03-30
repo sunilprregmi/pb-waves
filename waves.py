@@ -181,9 +181,9 @@ def merge_playlists(api_dict, scrape_dict):
     with open('./waves.m3u8', 'w', encoding='utf-8') as f:
         # Write custom header
         f.write('#EXTM3U x-tvg-url="https://github.com/sunilprregmi/pb-waves-epg/raw/refs/heads/main/pb-waves.xml.gz"\n')
-        f.write('# Sunil Prasad @ sunilprasad.com.np\n')
-        f.write('# STRICT WARNING: Do not spam.\n')
-        f.write('# Made with love <3\n\n')
+        f.write('# Waves OTT Scraped Playlist\n')
+        f.write('# By Sunil Prasad @ sunilprasad.com.np\n')
+        f.write('# Made with love <3\n')
         
         merged_count = 0
         unmatched_count = 0
@@ -194,7 +194,7 @@ def merge_playlists(api_dict, scrape_dict):
             if tvg_id in scrape_dict:
                 scrape_info = scrape_dict[tvg_id]
                 merged_line = (
-                    f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{scrape_info["name"].replace(" ", "-").lower()}" '
+                    f'\n#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{scrape_info["name"].replace(" ", "-").lower()}" '
                     f'tvg-logo="{api_info["tvg_logo"]}" group-title="{group}", {scrape_info["name"]}\n'
                     f'#KODIPROP:inputstream=inputstream.adaptive\n'
                     f'#KODIPROP:inputstream.adaptive.manifest_type=hls\n'
